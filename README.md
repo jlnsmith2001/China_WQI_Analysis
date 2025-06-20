@@ -1,4 +1,4 @@
-# China_WQI_Analysis
+# China WQI Analysis
 Data analysis case study using Spreadsheets and Tableau.
 
 ## DATA DISCLAIMER

@@ -31,7 +31,7 @@ Analyze water quality data from 2023 to identify which regions in China experien
 [Column chart](https://public.tableau.com/views/WQIBarChart/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Cleaning Process
-My data cleaning process consisted of copying the original dataset to create a version to work with. I then took time to familiarize myself with the topic, understanding the different column headers and which columns would be most relevant to answer my business task.
+My data cleaning process consisted of copying the original dataset to create a version to work with. I then took time to familiarize myself with the topic, understanding the different column headers and which columns would be most relevant to answer my business task. I used filters, formulas, and helper columns to help me clean my data.
 
 
 

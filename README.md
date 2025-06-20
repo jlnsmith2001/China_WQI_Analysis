@@ -7,7 +7,6 @@ Station names, coordinates, and measurements are entirely fictional and were alg
 
 ## Business Task
 Analyze water quality data from 2023 to identify which regions in China experienced the highest pollution levels, detect seasonal trends in pollution, and highlight which pollutants were most frequently elevated.
-## Key things to know about the project 
 
 ## Visualizations include
 - Geographic map showcasing monitoring stations and their average levels of pollution
@@ -19,10 +18,10 @@ Analyze water quality data from 2023 to identify which regions in China experien
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1lJawIpKCCQDMxUipzM0Ycfw9hlFR3lUhWhDq8OfRbE4/edit?usp=sharing)
 (Red columns: unused data, green columns:cleaned data, 
 
-[Geographic map] (https://public.tableau.com/views/WQIStationGeoMap/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Heat map] (https://public.tableau.com/views/WQIHeatmap/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Bar graph] (https://public.tableau.com/views/WQIPollutantInstChart/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Column chart] (https://public.tableau.com/views/WQIBarChart/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Geographic map](https://public.tableau.com/views/WQIStationGeoMap/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Heat map](https://public.tableau.com/views/WQIHeatmap/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Bar graph](https://public.tableau.com/views/WQIPollutantInstChart/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Column chart](https://public.tableau.com/views/WQIBarChart/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Cleaning Process
 

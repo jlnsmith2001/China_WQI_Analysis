@@ -15,7 +15,7 @@ Analyze water quality data from 2023 to identify which regions in China experien
 - Geographic map showcasing monitoring stations and their average levels of pollution
 - Heat map exploring seasonal trends among provinces
 - Bar graph revealing which pollutants had the highest instances of reaching unsafe levels of contamination
-- Column chartcomparing which stations within provinces had the highest averages
+- Column chart comparing which stations within  specific provinces had the highest averages
 ## Presentation and dataset 
  [Powerpoint](https://docs.google.com/presentation/d/1eULJr2_jlInICBXGKnFmoBY0l7NFB_aKxEgGzT1Ppzk/edit?usp=sharing)
 

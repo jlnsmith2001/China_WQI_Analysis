@@ -5,6 +5,9 @@ Data analysis case study using Spreadsheets and Tableau.
 This dataset was synthetically generated and does not reflect real-world data. It is meant for exploratory analysis only. 
 Station names, coordinates, and measurements are entirely fictional and were algorithmically randomized within realistic boundaries. 
 
+## Dataset source
+[China Water Pollution Monitoring Dataset](https://www.kaggle.com/datasets/khushikyad001/china-water-pollution-monitoring-dataset)
+
 ## Business Task
 Analyze water quality data from 2023 to identify which regions in China experienced the highest pollution levels, detect seasonal trends in pollution, and highlight which pollutants were most frequently elevated.
 
@@ -28,6 +31,7 @@ Analyze water quality data from 2023 to identify which regions in China experien
 [Column chart](https://public.tableau.com/views/WQIBarChart/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Cleaning Process
+My data cleaning process consisted of copying the original dataset , creating a copy to work with and starting by 
 
 
 

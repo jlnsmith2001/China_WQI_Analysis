@@ -1,6 +1,10 @@
 # China WQI Analysis
 Data analysis case study using Spreadsheets and Tableau.
 
+- ✔️ Data Cleaning
+- ✔️ Analysis
+- ✔️ Visualizations
+- ❌  Final README (WIP)
 ## DATA DISCLAIMER
 This dataset was synthetically generated and does not reflect real-world data. It is meant for exploratory analysis only. 
 Station names, coordinates, and measurements are entirely fictional and were algorithmically randomized within realistic boundaries. 

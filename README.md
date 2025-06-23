@@ -42,7 +42,9 @@ Analyze water quality data from 2023 to identify which regions in China experien
 
 ## Tools and Skills used
 Google Sheets: Data cleaning through formulas, filters, and helper columns
+
 Google Slides: Thorough explanations and findings 
+
 Tableau: Interactive visualizations 
 
 ## Data Cleaning Summary

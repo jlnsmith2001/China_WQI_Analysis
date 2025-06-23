@@ -4,7 +4,7 @@ Data analysis case study using Spreadsheets and Tableau.
 - ✔️ Data Cleaning
 - ✔️ Analysis
 - ✔️ Visualizations
-- ❌  Final README (WIP)
+- ✔️  Final README 
 ## DATA DISCLAIMER
 This dataset was synthetically generated and does not reflect real-world data. It is meant for exploratory analysis only. 
 Station names, coordinates, and measurements are entirely fictional and were algorithmically randomized within realistic boundaries. 
@@ -34,8 +34,27 @@ Analyze water quality data from 2023 to identify which regions in China experien
 
 [Column chart](https://public.tableau.com/views/WQIBarChart/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Data Cleaning Process
-My data cleaning process consisted of copying the original dataset to create a version to work with. I then took time to familiarize myself with the topic, understanding the different column headers and which columns would be most relevant to answer my business task. I used filters, formulas, and helper columns to help me clean my data.
+## Key Insights
+- Most polluted provinces in china included Wuhan, Dali, Yichang, and Zhengzhou
+- Spring and Winter tended to have higher levels of pollution
+- Phosphorous, Ammonia, And Total Nitrogen were consistently at elevated levels across many stations.
+- Stations in Zhengzhou and Yichang had high levels of Phosphorous throughout the entire year.
+
+## Tools and Skills used
+Google Sheets: Data cleaning through formulas, filters, and helper columns
+Google Slides: Thorough explanations and findings 
+Tableau: Interactive visualizations 
+
+## Data Cleaning Summary
+Created a copy of the raw dataset and cleaned it using Google Sheets. This process consisted of...
+- Filtering out empty/irrelevant rows
+- Renaming columns for clarity
+- Creating helper columns for thresholds and regional validation
+- Removing invalid data entries
+This process enabled me to work with clean, structured data so I could focus my attention to answering my business task. 
+
+
+
 
 
 

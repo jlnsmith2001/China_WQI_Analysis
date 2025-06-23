@@ -37,7 +37,7 @@ Analyze water quality data from 2023 to identify which regions in China experien
 ## Key Insights
 - Most polluted provinces in china included Wuhan, Dali, Yichang, Luoyang, and Zhengzhou
 - Spring and Winter tended to have higher levels of pollution
-- Phosphorous, Ammonia, And Total Nitrogen were consistently at elevated levels across many stations.
+- Phosphorous, Ammonia, And Total Nitrogen were the biggest contributors regarding pollution.
 - Stations in Zhengzhou and Yichang had high levels of Phosphorous throughout the entire year.
 
 ## Tools and Skills used

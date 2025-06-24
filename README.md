@@ -53,6 +53,7 @@ Created a copy of the raw dataset and cleaned it using Google Sheets. This proce
 - Renaming columns for clarity
 - Creating helper columns for thresholds and regional validation
 - Removing invalid data entries
+  
 This process enabled me to work with clean, structured data so I could focus my attention to answering my business task. 
 
 
